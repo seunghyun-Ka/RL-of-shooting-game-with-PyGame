@@ -11,3 +11,7 @@
 1. PyGame
 2. anaconda
 3. tensorflow
+4. numpy
+
+# Agent
+![sprite1](https://user-images.githubusercontent.com/55978194/84870916-dc05e180-b0ba-11ea-8329-0762be789882.png)
