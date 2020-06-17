@@ -38,7 +38,7 @@ https://youtu.be/1ElgyAAYoH4 슈팅게임 유튜브 주소
 1. Network를 구성 후 Predict, Update 함수 생성
 
 # Replay Memory
-1. Agent를 즉시 학습 시키지 않고 일정량 저장해 두었다가 한 번에 학습시킨다.
+1. Agent를 즉시 학습 시키지 않고 일정량 저장해 두었다가 한 번에 학습.
 
 # Target, Main network
 1. Target network와 Main network를 분리하여 학습한 후 복사
