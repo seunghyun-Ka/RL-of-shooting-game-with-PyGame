@@ -33,5 +33,8 @@ https://youtu.be/1ElgyAAYoH4 슈팅게임 유튜브 주소
 1. Agent에서 임시 환경을 만들어 낸 후 Enemy에서 완벽한 NextState를 만들어냄
 ![temp](https://user-images.githubusercontent.com/55978194/84873200-dc53ac00-b0bd-11ea-98bf-feed537a8dcb.png)
 
+# Replay Memory
+1. Agent를 즉시 학습 시키지 않고 일정량 저장해 두었다가 한 번에 학습시킨다.
 
-
+# Target, Main network
+1. Target network와 Main network를 분리하여 학습하고 
