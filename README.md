@@ -26,7 +26,7 @@
 ![enemy1](https://user-images.githubusercontent.com/55978194/84871944-26d42900-b0bc-11ea-9339-ce9ddcd60064.png)
 1. Enviroment에선 2로 표현되며 1인 Agent와 부딪혔다면 Reward를 -1 시킨 후 Reset
 
-# Code
+# State
 ![me](https://user-images.githubusercontent.com/55978194/84872705-3011c580-b0bd-11ea-8f35-6fe8cbefac4c.png) ![you](https://user-images.githubusercontent.com/55978194/84873052-9bf42e00-b0bd-11ea-8ce1-c7dca765a945.png)
 1. Agent에서 임시 환경을 만들어 낸 후 Enemy에서 완벽한 NextState를 만들어냄
 ![temp](https://user-images.githubusercontent.com/55978194/84873200-dc53ac00-b0bd-11ea-98bf-feed537a8dcb.png)
