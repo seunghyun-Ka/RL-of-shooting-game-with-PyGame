@@ -2,3 +2,4 @@
 
 # Project name : RL-of-shooting-game-with-PyGame
 1. 파이게임으로 슈팅게임을 만든 후 RL(강화학습)을 사용하여 학습 후 플레이
+
