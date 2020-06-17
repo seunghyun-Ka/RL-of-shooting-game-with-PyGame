@@ -18,3 +18,8 @@
 
 # Agent
 ![sprite1](https://user-images.githubusercontent.com/55978194/84870916-dc05e180-b0ba-11ea-8329-0762be789882.png)
+1. Environment와 상호작용을 하며 위 아래 둘중하나의 Action을 선택
+2. Action 선택 후 Enemy과 부딫히지 않았다면 Reward를 1 획득
+3. 만약 Enemy와 부딫혔다면 Reward를 -10 시킨 후 Reset
+
+# Enemy 
