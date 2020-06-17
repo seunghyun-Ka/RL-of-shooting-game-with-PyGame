@@ -1,3 +1,5 @@
+https://youtu.be/1ElgyAAYoH4 슈팅게임 유튜브 주소
+
 # Project name : RL-of-shooting-game-with-PyGame
 ## 프로젝트 소개
 1. 파이게임으로 슈팅게임을 제작
