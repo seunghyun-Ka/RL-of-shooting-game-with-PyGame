@@ -33,6 +33,10 @@ https://youtu.be/1ElgyAAYoH4 슈팅게임 유튜브 주소
 1. Agent에서 임시 환경을 만들어 낸 후 Enemy에서 완벽한 NextState를 만들어냄
 ![temp](https://user-images.githubusercontent.com/55978194/84873200-dc53ac00-b0bd-11ea-98bf-feed537a8dcb.png)
 
+# Deep Q network
+![ss](https://user-images.githubusercontent.com/55978194/84881793-50e01800-b0c9-11ea-9d72-e6ba3aa60383.png)
+1. Network를 구성 후 Predict, Update 함수 생성
+
 # Replay Memory
 1. Agent를 즉시 학습 시키지 않고 일정량 저장해 두었다가 한 번에 학습시킨다.
 
@@ -41,5 +45,5 @@ https://youtu.be/1ElgyAAYoH4 슈팅게임 유튜브 주소
 
 # Step count
 ![s](https://user-images.githubusercontent.com/55978194/84881456-d7482a00-b0c8-11ea-8d77-62337c35ff88.png)
-1. Agent가 Step을 300이상 했다면 PyGame으로 화면에 출력 
+1. Agent가 Step을 300 이상 했다면 PyGame으로 화면에 출력 
 2. Step이 600 이상이면 게임 시작
