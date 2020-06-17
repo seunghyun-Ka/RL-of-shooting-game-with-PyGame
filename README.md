@@ -1,5 +1,3 @@
-![1](https://user-images.githubusercontent.com/55978194/84865962-0b652000-b0b4-11ea-94d9-1e5f6f18d941.png)
-
 # Project name : RL-of-shooting-game-with-PyGame
 ## 프로젝트 소개
 1. 파이게임으로 슈팅게임을 제작
@@ -14,7 +12,8 @@
 4. numpy
 
 # Environment
-
+![1](https://user-images.githubusercontent.com/55978194/84865962-0b652000-b0b4-11ea-94d9-1e5f6f18d941.png)
+10 X 10 배열을 사용하여 구축 후 이 배열을 가지고 파이게임으로 시각적으로 잘 보이게 제작
 
 # Agent
 ![sprite1](https://user-images.githubusercontent.com/55978194/84870916-dc05e180-b0ba-11ea-8329-0762be789882.png)
