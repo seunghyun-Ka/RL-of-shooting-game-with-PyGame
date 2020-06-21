@@ -62,6 +62,8 @@ Step count
 ![s](https://user-images.githubusercontent.com/55978194/84881456-d7482a00-b0c8-11ea-8d77-62337c35ff88.png)
 1. Agent가 Step을 300 이상 했다면 PyGame으로 화면에 출력 
 2. Step이 600 이상이면 게임 시작   
+* * *   
+* * *   
 * * *
 # English
 https://youtu.be/1ElgyAAYoH4   
@@ -129,6 +131,8 @@ Step count
 ![s](https://user-images.githubusercontent.com/55978194/84881456-d7482a00-b0c8-11ea-8d77-62337c35ff88.png)
 1. Agent가 Step을 300 이상 했다면 PyGame으로 화면에 출력 
 2. Step이 600 이상이면 게임 시작   
+* * *   
+* * *   
 * * *
 # 日本語
 https://youtu.be/1ElgyAAYoH4   
