@@ -30,7 +30,8 @@ https://youtu.be/1ElgyAAYoH4 슈팅게임 유튜브 주소
 
 # State, Step
 ![me](https://user-images.githubusercontent.com/55978194/84872705-3011c580-b0bd-11ea-8f35-6fe8cbefac4c.png) ![you](https://user-images.githubusercontent.com/55978194/84873052-9bf42e00-b0bd-11ea-8ce1-c7dca765a945.png)
-1. Agent에서 임시 환경을 만들어 낸 후 Enemy에서 완벽한 NextState를 만들어냄
+1. MySprite 클래스에서 임시환경(board상의 Agent의 위치를 표시)를 만들어냄
+2. Enemy 클래스에서 MySprite에서 만들어낸 임시 환경을 사용하여 완벽한 NextState{board상의 Agent(1)와 Enemy(2)}를 만들어냄
 ![temp](https://user-images.githubusercontent.com/55978194/84873200-dc53ac00-b0bd-11ea-98bf-feed537a8dcb.png)
 
 # Deep Q network
