@@ -1,7 +1,5 @@
 https://youtu.be/1ElgyAAYoH4 
-YouTube Address of Shooting Game
-   슈팅게임 유튜브 주소
-   シューティングゲームのYouTubeアドレス
+YouTube Address of Shooting Game   슈팅게임 유튜브 주소   シューティングゲームのYouTubeアドレス
 
 Project name : RL-of-shooting-game-with-PyGame
 =============
