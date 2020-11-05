@@ -10,13 +10,9 @@ Project name : RL-of-shooting-game-with-PyGame
 2. シューティングゲームをRL(強化学習)で学習
 3. RLが適用されたゲームをプレイ
 
-Project information
-=============
-## Requirement
-1. PyGame
-2. anaconda
-3. tensorflow
-4. numpy
+![1](https://user-images.githubusercontent.com/55978194/98234145-5d470d80-1fa3-11eb-875d-a3ae5773b177.png)
+
+![2](https://user-images.githubusercontent.com/55978194/98234148-5e783a80-1fa3-11eb-8456-b3a3969cfdbd.png)
 
 Environment
 =============
